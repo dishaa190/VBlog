@@ -17,7 +17,7 @@ body{
 }
 
 .bar{
-    /*height:88px;*/
+    height:88px;
     /*background-color: #379b9b;*/
     display: flex;
     justify-content: space-between;
@@ -27,7 +27,7 @@ body{
     }
 
 .content{
-    /*height: 590px ;*/
+    height: 590px;
     background-color: #d2cec9;
     font-family: 'Oswald', sans-serif;
 
